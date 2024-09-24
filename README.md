@@ -1,5 +1,4 @@
 # 💫 About Me
-![Banner](https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
 
 - 👋 Hello, I’m Avinash! I'm passionate about Full Stack Web Development and building scalable backend systems.<br>
 - 🔭 Currently focused on creating innovative web solutions with a strong backend infrastructure.<br>
